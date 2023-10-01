@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush kachhap</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-[![An image of @insane30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane30)](https://holopin.io/@insane30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insane30&label=Profile%20views&color=0e75b6&style=flat" alt="insane30" /> </p>
 
