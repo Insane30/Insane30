@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **DSA, Full Stack Development.**
 
 - ⚡ Fun fact **ava and JavaScript are as similar as apple and pineapple.**
-
+[![An image of @insane30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane30)](https://holopin.io/@insane30)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/insane_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insane_30" height="30" width="40" /></a>
