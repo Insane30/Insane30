@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Full Stack Development.**
 
-- ⚡ Fun fact **ava and JavaScript are as similar as apple and pineapple.**
+- ⚡ Fun fact **Java and JavaScript are as similar as apple and pineapple.**
 [![An image of @insane30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane30)](https://holopin.io/@insane30)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
