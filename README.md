@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **DSA, Full Stack Development.**
+- 🌱 I’m learning **Everyday**
 
 - ⚡ Fun fact **Java and JavaScript are as similar as apple and pineapple.**
 [![An image of @insane30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane30)](https://holopin.io/@insane30)
