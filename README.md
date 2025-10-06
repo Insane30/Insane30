@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/insane_30" target="blank"><img src="https://img.shields.io/twitter/follow/insane_30?logo=twitter&style=for-the-badge" alt="insane_30" /></a> </p>
 
-- 🔭 I’m getting better **Everyday**
+- 🔭 I’m working on Myself
 
 - 🌱 I’m learning **Everyday**
 
